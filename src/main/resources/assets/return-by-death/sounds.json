@@ -1,0 +1,14 @@
+{
+  "rbd_oh": {
+    "subtitle": "sound.return-by-death.rbd_oh",
+    "sounds": [
+      "return-by-death:rbd_oh"
+    ]
+  },
+  "rbd_ueh": {
+    "subtitle": "sound.return-by-death.rbd_ueh",
+    "sounds": [
+      "return-by-death:rbd_ueh"
+    ]
+  }
+}
